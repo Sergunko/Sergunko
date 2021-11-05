@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sergunko
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python,Java,JavaScript
 - 💞️ I’m looking to collaborate on anything
 - 📫 To reach me just say Sergunko 3 times and then send me a message or tweet @RusskyBear
 
